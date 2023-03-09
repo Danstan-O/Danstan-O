@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Danstan Oduor</h1>
+
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Danstan-O&label=Profile%20views&color=0e75b6&style=flat" alt="Danstan-O" /> </p>
 
 - 🔭 I’m currently working for [i-talanta](https://github.com/italanta)
 
-- 🌱 I’m currently learning **Angular.**
+- 🌱 I’m currently learning **Angular and C programming language.**
 
 - 👯 I’m looking to collaborate on [elewa-group](https://github.com/italanta/elewa-group)
 
 - 📝 I regularly write articles on [https://dev.to/danstano/](https://dev.to/danstano/)
 
-- 💬 Ask me about **javascript, html,css, react, ruby, ruby on rails**
+- 💬 Ask me about **javascript, html,css, react, ruby, ruby on rails, sass**
 
 - 📫 How to reach me **oduordanstan@gmail.com**
 
