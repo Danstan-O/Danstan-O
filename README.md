@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danstan-O&label=Profile%20views&color=0e75b6&style=flat" alt="Danstan-O" /> </p>
 
 - 🌱 I’m currently learning **C programming language.**
+- 🌱 I’m currently working on the [printf project](https://github.com/Danstan-O/printf)
 
 - 📝 I regularly write articles on [https://dev.to/danstano/](https://dev.to/danstano/)
 
