@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danstan-O&label=Profile%20views&color=0e75b6&style=flat" alt="Danstan-O" /> </p>
 
-- 🌱 I’m currently working on personal and open source projects.
+- 🌱 I’m currently working on personal and open-source projects.
 
 - 📝 I regularly write articles on [https://dev.to/danstano/](https://dev.to/danstano/)
 
-- 💬 Ask me about **javascript, html,css, react.js, ruby, ruby on rails, next.js
+- 💬 Ask me about **javascript, html,css, react.js, ruby, ruby on rails, next.js**
 
 - 📫 How to reach me **oduordanstan@gmail.com**
 
